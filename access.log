@@ -1,0 +1,90 @@
+[2026-11-18 09:23:22] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: LISPER["*"] | ESTADO: EXITOSO
+[2026-11-18 09:27:01] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: LISPER["*"] | ESTADO: EXITOSO
+[2026-11-18 09:28:47] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: LISPER["*"] | ESTADO: EXITOSO
+[2026-11-18 09:32:10] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: LISPER[*] | ESTADO: EXITOSO
+[2026-11-18 09:43:35] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: INSPER["8123456","Evans","Balcazar","70011223","evans@uagrm.edu.bo"] | ESTADO: EXITOSO
+[2026-11-18 09:50:06] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: INSMC[30,"TITULAR","DOCENTE","ACTIVO","FRENTE-DOCENTE","2026-03-01",0,"VIGENTE","8123456"] | ESTADO: EXITOSO
+[2026-11-18 09:50:50] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: LISMC["*"] | ESTADO: EXITOSO
+[2026-11-18 09:52:09] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: INSUSR["ebalcazar","evans2026","Delegado","8123456"] | ESTADO: EXITOSO
+[2026-11-18 09:53:11] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: INSSES[2000,200,"CONV-2026-01","1. Lectura de correspondencia. 2. Votación de aprobación.","ORDINARIA",30] | ESTADO: EXITOSO
+[2026-11-18 09:54:12] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: LISPEN[*] | ESTADO: EXITOSO
+[2026-11-18 09:55:13] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: INSASI["2026-11-18 09:00:00",false,"Ninguno",false,30,2000] | ESTADO: EXITOSO
+[2026-11-18 09:56:56] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: INSASI["2026-11-18 09:00:00",false,"Ninguno",false,25,2000] | ESTADO: EXITOSO
+[2026-11-18 09:59:50] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: GETQUO[2000] | ESTADO: EXITOSO
+[2026-11-18 10:04:21] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: INSPER["9911223","Laura Torres","71122334","laura@uagrm.edu.bo"] | ESTADO: EXITOSO
+[2026-11-18 10:43:05] REMITENTE: Urgel Keny Leonardo <kenyurgel22@gmail.com> | COMANDO: INSPER["6655443","Camila Rojas","72233445","camila@uagrm.edu.bo"] | ESTADO: EXITOSO
+[2026-11-20 08:43:55] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISPER["*"] | ESTADO: EXITOSO
+[2026-11-20 08:46:08] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISPER["*"] | ESTADO: EXITOSO
+[2026-11-20 08:49:48] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISPER["*"] | ESTADO: EXITOSO
+[2026-11-20 08:54:43] REMITENTE: grupo07sc@tecnoweb.org.bo | COMANDO: LISPER["*"] | ESTADO: EXITOSO
+[2026-11-20 08:57:50] REMITENTE: grupo07sc@tecnoweb.org.bo | COMANDO: LISPER["*"] | ESTADO: EXITOSO
+[2026-11-20 09:05:08] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISPER[*] | ESTADO: EXITOSO
+[2026-11-20 09:30:27] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISPER["*"] | ESTADO: EXITOSO
+[2026-11-20 10:51:45] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISPER["*"] | ESTADO: EXITOSO
+[2026-11-20 11:14:03] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISPER["*"] | ESTADO: EXITOSO
+[2026-11-20 11:22:30] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISPER[*] | ESTADO: EXITOSO
+[2026-11-20 11:25:30] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISPER[*] | ESTADO: EXITOSO
+[2026-11-20 11:28:17] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSPER["7788990","Mateo Salvatierra","71099887","mateo@uagrm.edu.bo"] | ESTADO: EXITOSO
+[2026-11-20 11:51:01] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSUSR["msalvatierra","clave2026","Secretario","7788990"] | ESTADO: EXITOSO
+[2026-11-20 11:56:01] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSMC[55,"TITULAR","DOCENTE","ACTIVO","Frente Academico","2026-11-20",0,"VIGENTE","7788990"] | ESTADO: EXITOSO
+[2026-11-20 12:10:14] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSSES[3500,550,"SES-ORD-2026","1. Correspondencia. 2. Resoluciones.","ORDINARIA",55] | ESTADO: EXITOSO
+[2026-11-20 12:12:33] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSPER["8899001","Camila Mendoza","76543210","camila.mendoza@uagrm.edu.bo"] | ESTADO: EXITOSO
+[2026-11-20 12:13:33] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSUSR["cmendoza","ficct2026","Delegado","8899001"] | ESTADO: EXITOSO
+[2026-11-20 12:24:28] REMITENTE: kenyurgel22@gmail.com | COMANDO: AYUDA["*"] | ESTADO: EXITOSO
+[2026-11-20 12:30:34] REMITENTE: kenyurgel22@gmail.com | COMANDO: AYUDA["*"] | ESTADO: EXITOSO
+[2026-11-20 13:07:39] REMITENTE: kenyurgel22@gmail.com | COMANDO: AYUDA[“*”] | ESTADO: EXITOSO
+[2026-11-20 13:11:30] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSPER["7700101","Ing. Roberto Vargas","77011111","rvargas@uagrm.edu.bo"] | ESTADO: EXITOSO
+[2026-11-20 13:19:58] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSPER["9900112","Valeria Torrico","77112233","valeria@uagrm.edu.bo"] | ESTADO: EXITOSO
+[2026-11-20 13:21:02] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSMC[70,"TITULAR","ESTUDIANTE","ACTIVO","Frente FICCT","2026-11-20",0,"VIGENTE","9900112"] | ESTADO: EXITOSO
+[2026-11-20 13:21:45] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSDOC[850,"Homologacion Plan de Estudios 2026","TRAMITE","https://ficct.uagrm.edu.bo/doc850.pdf","2026-11-20",true] | ESTADO: EXITOSO
+[2026-11-20 13:23:32] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISPEN["*"] | ESTADO: EXITOSO
+[2026-11-20 13:29:14] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISPEN["*"] | ESTADO: EXITOSO
+[2026-11-20 13:31:29] REMITENTE: kenyurgel22@gmail.com | COMANDO: AGEDOC[716, 700] | ESTADO: EXITOSO
+[2026-11-20 13:33:21] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSASI["2026-11-20 14:00:00",false,"Presente",false,55,5000] | ESTADO: EXITOSO
+[2026-11-20 17:12:02] REMITENTE: kenyurgel22@gmail.com | COMANDO: HELP["*"] | ESTADO: EXITOSO
+[2026-11-20 17:16:48] REMITENTE: kenyurgel22@gmail.com | COMANDO: HELP["*"] | ESTADO: EXITOSO
+[2026-11-20 17:30:03] REMITENTE: kenyurgel22@gmail.com | COMANDO: HELP["*"] | ESTADO: EXITOSO
+[2026-11-20 17:31:05] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISVOT["*"] | ESTADO: EXITOSO
+[2026-11-20 17:35:00] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISVOT["*"] | ESTADO: EXITOSO
+[2026-11-20 17:35:43] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISPER["*"] | ESTADO: EXITOSO
+[2026-11-20 21:59:36] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSPER["1001001","Carlos Rojas","71000001","carlos@uagrm.edu.bo"] | ESTADO: EXITOSO
+[2026-11-20 22:01:35] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSMC[1,"TITULAR","DOCENTE","ACTIVO","Frente Academico","2026-11-20",0,"VIGENTE","1001001"] | ESTADO: EXITOSO
+[2026-11-20 22:07:05] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSPER["12345","EVANS","71000001","carlos@uagrm.edu.bo"] | ESTADO: EXITOSO
+[2026-11-23 10:51:35] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSUSR["evans", "evans2026","Presidente","12345"] | ESTADO: EXITOSO
+[2026-11-23 10:51:42] REMITENTE: kenyurgel22@gmail.com | COMANDO: HELP["*"] | ESTADO: EXITOSO
+[2026-11-23 10:52:20] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSPER["4512001","Ing. Carlos Mendoza","71022334","cmendoza@uagrm.edu.bo"] | ESTADO: EXITOSO
+[2026-11-23 10:53:21] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSPER["8899002","Ana Lucia Rios","76543219","alrios@uagrm.edu.bo"] | ESTADO: EXITOSO
+[2026-11-23 10:54:03] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISPER["*"] | ESTADO: EXITOSO
+[2026-11-23 10:55:03] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSUSR["cmendoza","doc2026","Presidente","4512001"] | ESTADO: EXITOSO
+[2026-11-23 11:09:06] REMITENTE: kenyurgel22@gmail.com | COMANDO: insper[ "9911001" , "José María Peña Ñuñez" , "70011223" , "jmpena@uagrm.edu.bo" ] | ESTADO: EXITOSO
+[2026-11-23 11:10:10] REMITENTE: kenyurgel22@gmail.com | COMANDO: insusr[ "jpena" , "clave123" , "dElEgAdO" , "9911001" ] | ESTADO: EXITOSO
+[2026-11-23 11:10:52] REMITENTE: kenyurgel22@gmail.com | COMANDO: insmc[ 301 , "titular" , "docente" , "activo" , "Frente Innovación" , "2026-11-23" , 0 , "vigente" , "9911001" ] | ESTADO: EXITOSO
+[2026-11-23 11:20:39] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSSES[5000,700,"SES-ORD-050","1. Quorum. 2. Tramites Academicos","ORDINARIA",301] | ESTADO: EXITOSO
+[2026-11-23 11:21:41] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSDOC[950,"Solicitud de Convalidacion","TRAMITE","/docs/tramite950.pdf","2026-11-23",true] | ESTADO: EXITOSO
+[2026-11-23 11:22:24] REMITENTE: kenyurgel22@gmail.com | COMANDO: AGEDOC[950,700] | ESTADO: EXITOSO
+[2026-11-23 11:23:24] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSASI["2026-11-23 11:16:00",false,"Presente",false,302,5000] | ESTADO: EXITOSO
+[2026-11-23 11:24:06] REMITENTE: kenyurgel22@gmail.com | COMANDO: UPDQUO[5000,"HABILITADO"] | ESTADO: EXITOSO
+[2026-11-23 11:24:49] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSVOT[2001,950,301,"11:20:00","A FAVOR"] | ESTADO: EXITOSO
+[2026-11-23 11:27:30] REMITENTE: kenyurgel22@gmail.com | COMANDO: HELP["*"] | ESTADO: EXITOSO
+[2026-11-23 11:29:30] REMITENTE: kenyurgel22@gmail.com | COMANDO: HELP["*"] | ESTADO: EXITOSO
+[2026-11-23 11:35:09] REMITENTE: kenyurgel22@gmail.com | COMANDO: HELP["*"] | ESTADO: EXITOSO
+[2026-11-23 11:35:35] REMITENTE: kenyurgel22@gmail.com | COMANDO: HELP["*"] | ESTADO: EXITOSO
+[2026-11-23 11:39:19] REMITENTE: kenyurgel22@gmail.com | COMANDO: HELP["*"] | ESTADO: EXITOSO
+[2026-11-23 11:48:05] REMITENTE: kenyurgel22@gmail.com | COMANDO: HELP["*"] | ESTADO: EXITOSO
+[2026-11-23 11:51:06] REMITENTE: kenyurgel22@gmail.com | COMANDO: HELP["*"] | ESTADO: EXITOSO
+[2026-11-23 11:54:16] REMITENTE: kenyurgel22@gmail.com | COMANDO: HELP["*"] | ESTADO: EXITOSO
+[2026-11-23 11:57:05] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSPER["8115416","Ing. Evans Balcazar 115416","76543210","ebalcazar115416@uagrm.edu.bo"] | ESTADO: EXITOSO
+[2026-11-23 11:57:48] REMITENTE: kenyurgel22@gmail.com | COMANDO: UPDPER["8115416","Ing. Evans Balcazar 115416 Titular","76543211","ebalcazar115416@uagrm.edu.bo"] | ESTADO: EXITOSO
+[2026-11-23 11:58:33] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSUSR["ebalcazar115416","ficct2026","Delegado","8115416"] | ESTADO: EXITOSO
+[2026-11-23 11:59:33] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSMC[115416,"TITULAR","DOCENTE","ACTIVO","Frente FICCT","2026-11-23",0,"VIGENTE","8115416"] | ESTADO: EXITOSO
+[2026-11-23 12:00:16] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSSES[115416,115416,"SES-ORD-115416","1. Quorum. 2. Tramites","ORDINARIA",115416] | ESTADO: EXITOSO
+[2026-11-23 12:00:58] REMITENTE: kenyurgel22@gmail.com | COMANDO: LISMC["*"] | ESTADO: EXITOSO
+[2026-11-23 13:23:00] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSCON[115417,"SES-EXT-115416","2026-11-23","15:00:00","Punto unico","EXTRAORDINARIA"] | ESTADO: EXITOSO
+[2026-11-23 13:24:02] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSEXC[115416,115416,115416,115417,115416,"Comision","Carlos Suplente 115416"] | ESTADO: EXITOSO
+[2026-11-23 13:25:21] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSDOC[115416,"Titulacion Directa 115416","TRAMITE","/docs/doc115416.pdf","2026-11-23",true] | ESTADO: EXITOSO
+[2026-11-23 13:26:21] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSASI["2026-11-23 14:05:00",false,"Sin novedad",false,115416,115416] | ESTADO: EXITOSO
+[2026-11-23 13:27:04] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSVOT[115416,115416,115416,"14:20:00","A FAVOR"] | ESTADO: EXITOSO
+[2026-11-23 13:28:05] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSRES[115416,"Se aprueba solicitud por unanimidad","RES-115416/2026",115416] | ESTADO: EXITOSO
+[2026-11-23 13:29:06] REMITENTE: kenyurgel22@gmail.com | COMANDO: INSPUB[115416,115416,"https://uagrm.edu.bo",115416] | ESTADO: EXITOSO
+[2026-11-23 13:30:26] REMITENTE: kenyurgel22@gmail.com | COMANDO: AUDIT[115416] | ESTADO: EXITOSO
+[2026-11-23 13:32:05] REMITENTE: kenyurgel22@gmail.com | COMANDO: ESTEST["*"] | ESTADO: EXITOSO
